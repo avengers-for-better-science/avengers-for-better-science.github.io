@@ -1,6 +1,6 @@
 ---
 title: "registration"
-bg: beneluxpurple
+bg: avengered
 color: white
 style: center
 ---
@@ -9,11 +9,7 @@ style: center
 
 # Registration
 
-We have reached our attendance limit and therefore registration for OpenMR Benelux is now _CLOSED_.
-
-To those who already registered: we look forward to welcoming you in Leiden!
-
-If you did not have the opportunity to register, but would still like to attend, please [send us a mail](mailto: openmrbenelux@gmail.com) and we'll add you to the waiting list.
+Lorum ipsum ....
 
 
 <!-- <div class="icontain">

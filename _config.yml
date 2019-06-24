@@ -15,15 +15,15 @@ highlighter: rouge
 
 
 ### content configuration ###
-title: OpenMR Benelux 2019
-keywords: open science, leiden, magnetic resonance imaging, MRI, fMRI, machine learning, open access publishing
+title: Avengers for Better Science
+keywords: open science, leiden
 description:
 #source_link:
 #favicon: favicon.png?
 url: https://avengersforbetterscience.github.io
 #touch_icon:
 #google_analytics_key: UA-104097157-1
-twitter_description: OpenMR Benelux 2019
+twitter_description: Avengers for Better Science
 #
 
 countdown:
@@ -46,6 +46,9 @@ colors:
   beneluxpurple: '#5E4751'
   beneluxlightblue: '#BCE7FD'
   beneluxpink: '#DAD2D8'
+  avengeblue: '#54778D'
+  avengeyellow: '#F4D53D'
+  avengered: '#E33D3F'
 
 ### flat  design colors from https://www.materialui.co/flatuicolors
   turquoise: '#1abc9c'
