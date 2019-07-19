@@ -9,18 +9,18 @@ color: black
 
 <div id="profile-container">
 
-{% include profile-card.html avatarurl="nat.png" profilename="Natalia Bielczyk, MSc " affiliation="Stichting Solaris Onderzoek en Ontwikkeling,<br>Nijmegen, The Netherlands" homepage="https://www.nataliabielczyk.com" twitter="nataliabielczyk" researchgate="Natalia_Bielczyk2"%}
+{% include profile-card.html avatarurl="Natalia.png" profilename="Natalia Bielczyk" affiliation="Career-building Educator<br>Stichting Solaris Onderzoek en Ontwikkeling<br>The Netherlands" homepage="https://www.nataliabielczyk.com" twitter="nbielczyk_neuro" researchgate="Natalia_Bielczyk2"%}
 
-{% include profile-card.html avatarurl="stephan.png" profilename="Stephan Heunis, MSc" affiliation="<br>Neu3CA Research Group, <br>Electrical Engineering, <br> Eindhoven University of Technology<br>Eindhoven, The Netherlands" homepage="https://www.fmrwhy.com" git="jsheunis" twitter="fmrwhy"%}
+{% include profile-card.html avatarurl="stephan.png" profilename="Stephan Heunis" affiliation="Phd Candidate, Electrical Engineering<br>Eindhoven University of Technology<br>The Netherlands" homepage="https://www.fmrwhy.com" git="jsheunis" twitter="fmrwhy"%}
 
 <br>
 </div>
 
 <div id="profile-container">
 
-{% include profile-card.html avatarurl="nat.png" profilename="Natalia Bielczyk, MSc " affiliation="Stichting Solaris Onderzoek en Ontwikkeling,<br>Nijmegen, The Netherlands" homepage="https://www.nataliabielczyk.com" twitter="nataliabielczyk" researchgate="Natalia_Bielczyk2"%}
+{% include profile-card.html avatarurl="Veronika.png" profilename="Veronika Cheplygina" affiliation="Assistant Professor, Medical Image Analysis<br>Eindhoven University of Technology<br>The Netherlands" homepage="http://www.veronikach.com" git="vcheplygina" twitter="DrVeronikaCH"%}
 
-{% include profile-card.html avatarurl="stephan.png" profilename="Stephan Heunis, MSc" affiliation="<br>Neu3CA Research Group, <br>Electrical Engineering, <br> Eindhoven University of Technology<br>Eindhoven, The Netherlands" homepage="https://www.fmrwhy.com" git="jsheunis" twitter="fmrwhy"%}
+{% include profile-card.html avatarurl="Mitko.png" profilename="Mitko Veta" affiliation="Assistant Professor, Medical Image Analysis<br>Eindhoven University of Technology<br>The Netherlands" git="mitkovetta" twitter="mitkoveta"%}
 
 <br>
 </div>
