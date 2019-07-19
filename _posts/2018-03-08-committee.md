@@ -18,9 +18,10 @@ color: black
 
 <div id="profile-container">
 
-{% include profile-card.html avatarurl="Veronika.png" profilename="Veronika Cheplygina" affiliation="Assistant Professor, Medical Image Analysis<br>Eindhoven University of Technology<br>The Netherlands" homepage="http://www.veronikach.com" git="vcheplygina" twitter="DrVeronikaCH"%}
+{% include speaker-card.html avatarurl="Aidan.png" profilename="Aidan Budd" affiliation="Head, Coordination Office<br>ELIXIR-UK<br>United Kingdom" git="aidanbudd" twitter="AidanBudd"%}
 
-{% include profile-card.html avatarurl="Mitko.png" profilename="Mitko Veta" affiliation="Assistant Professor, Medical Image Analysis<br>Eindhoven University of Technology<br>The Netherlands" git="mitkovetta" twitter="mitkoveta"%}
+{% include profile-card.html avatarurl="Veronika.png" profilename="Veronika Cheplygina" affiliation="Assistant Professor, Medical Image Analysis<br>Eindhoven University of Technology<br>The Netherlands" homepage="https://www.veronikach.com" git="vcheplygina" twitter="DrVeronikaCH"%}
+
 
 <br>
 </div>

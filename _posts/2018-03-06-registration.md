@@ -9,7 +9,7 @@ style: center
 
 # Registration
 
-Lorum ipsum ....
+Registration is not open yet, but wath this space for updates!
 
 
 <!-- <div class="icontain">
