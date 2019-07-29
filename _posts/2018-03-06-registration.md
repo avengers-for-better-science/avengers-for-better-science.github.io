@@ -9,9 +9,9 @@ color: white
 
 # Registration (closes 31 August 2019)
 
-<center>So you want to join the workshop? You're at the right place!</center>
+So you want to join the workshop? You're at the right place!
 
-<center>***The registration deadline is 31 August 2019. We will notify all applicants by 7 September 2019.***</center>
+***The registration deadline is 31 August 2019. We will notify all applicants by 7 September 2019.***
 
 Apart from some basic information, we ask you to please provide a motivation for why you'd like to attend the workshop (max 200 words / 1200 characters). Ideally, we'd like to welcome everyone interested in joining, but unfortunately our spaces are limited, so we'd like to give opportunities to a diverse group of deserving individuals who can contribute to and learn from the workshop.
 
